@@ -17,7 +17,7 @@
 \def\thesisWNtext{Bachelor thesis Mathematics and Physics \& Astronomy}
 \def\thesisWItext{Bachelor thesis Mathematics and Computer Science}
 \def\secondyearprojecttext{Project report Mathematics year 2}
-\def\compalgtext{Computer algebra-\LaTeX}
+\def\compalgtext{Programmeren en Experimenteren}
 \def\kdvitext{Korteweg-de Vries Institute for Mathematics}
 \def\uvatext{University of Amsterdam}
 \def\fnwitext{Faculty of Sciences}
@@ -38,7 +38,7 @@
 \def\thesisWNtext{Bachelorscriptie Wiskunde en Natuur- \& Sterrenkunde}
 \def\thesisWItext{Bachelorscriptie Wiskunde en Informatica}
 \def\secondyearprojecttext{Projectverslag Wiskunde jaar 2}
-\def\compalgtext{Computeralgebra-\LaTeX}
+\def\compalgtext{Programmeren en Experimenteren}
 \def\kdvitext{Korteweg-de Vries Instituut voor Wiskunde}
 \def\uvatext{Universiteit van Amsterdam}
 \def\fnwitext{Faculteit der Natuurwetenschappen, Wiskunde en Informatica}
