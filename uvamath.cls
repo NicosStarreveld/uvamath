@@ -17,6 +17,7 @@
 \def\thesisWNtext{Bachelor thesis Mathematics and Physics \& Astronomy}
 \def\thesisWItext{Bachelor thesis Mathematics and Computer Science}
 \def\secondyearprojecttext{Project report Mathematics year 2}
+\def\simmod{Simuleren en Modelleren}
 \def\progrenexptext{Programmeren en Experimenteren}
 \def\kdvitext{Korteweg-de Vries Institute for Mathematics}
 \def\uvatext{University of Amsterdam}
@@ -39,6 +40,7 @@
 \def\thesisWItext{Bachelorscriptie Wiskunde en Informatica}
 \def\secondyearprojecttext{Projectverslag Wiskunde jaar 2}
 \def\progrenexptext{Programmeren en Experimenteren}
+\def\simmod{Simuleren en Modelleren}
 \def\kdvitext{Korteweg-de Vries Instituut voor Wiskunde}
 \def\uvatext{Universiteit van Amsterdam}
 \def\fnwitext{Faculteit der Natuurwetenschappen, Wiskunde en Informatica}
@@ -57,6 +59,22 @@
 
 \DeclareOption{progrenexp}{
     \def\whichprojecttext{\progrenexptext}
+    \institute{
+    \kdvitext \\\smallskip
+    \fnwitext\\\smallskip
+    \uvatext\\\bigskip
+    \includegraphics[width=0.070\hsize]{uvalogo}
+    }
+    
+    \instituteaddress{\kdvitext\\
+    \uvatext\\
+    Science Park 904, 1098 XH Amsterdam\\
+    \url{http://www.kdvi.uva.nl}{}
+    }
+}
+
+\DeclareOption{simmod}{
+    \def\whichprojecttext{\simmod}
     \institute{
     \kdvitext \\\smallskip
     \fnwitext\\\smallskip
