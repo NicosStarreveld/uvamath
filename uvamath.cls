@@ -8,7 +8,7 @@
 \def\supervisortextsingular{Supervisor}
 \def\supervisortextplural{Supervisors}
 \def\titletext{Title}
-\def\authortextsingular{Authors}
+\def\authortextsingular{Author}
 \def\authortextplural{Authors}
 \def\datetext{End date}
 \def\secondgradertextsingular{Second grader}
@@ -136,7 +136,7 @@
     
     \instituteaddress{\ivitext\\
     \uvatext\\
-    Science Park 904, 1098 XH Amsterdam\\
+    Science Park 900, 1098 XH Amsterdam\\
     \url{http://www.ivi.uva.nl}{} \bigskip \\
     \kdvitext\\
     \uvatext\\
